@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-This project was created for GCH-tr
+This project was created for HDC-tr
 
 ## Features
 
@@ -24,7 +24,7 @@ This project was created for GCH-tr
 
 The MIT License
 
-Copyright (c) 2022 Adam Wrobel & GHC-tr
+Copyright (c) 2022 Adam Wrobel & HDC-tr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
